@@ -20,7 +20,7 @@ int main()
     for (i = 0; i < 5; i++) {
         cout << "Data array ke-" << i << " :" << arr[i] << endl;
     }
-
+    return 0;
 }
 
 
