@@ -14,7 +14,7 @@ int main()
 
     for (i = 0; i < 5; i++) {
         cout << "Masukan nilai index ke-" << i << " :";
-        cin >> arr[1];
+        cin >> arr[i];
 
     }
     for (i = 0; i < 5; i++) {
