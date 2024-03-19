@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "do while", "do while\do whi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "procedure and  fungsi", "procedure and  fungsi\procedure and  fungsi.vcxproj", "{3C2A03AD-7A6C-4E54-B699-A45AADA55AF0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fungsi", "Fungsi\Fungsi.vcxproj", "{E381BCC4-3863-4553-B298-B2EE8B265563}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{3C2A03AD-7A6C-4E54-B699-A45AADA55AF0}.Release|x64.Build.0 = Release|x64
 		{3C2A03AD-7A6C-4E54-B699-A45AADA55AF0}.Release|x86.ActiveCfg = Release|Win32
 		{3C2A03AD-7A6C-4E54-B699-A45AADA55AF0}.Release|x86.Build.0 = Release|Win32
+		{E381BCC4-3863-4553-B298-B2EE8B265563}.Debug|x64.ActiveCfg = Debug|x64
+		{E381BCC4-3863-4553-B298-B2EE8B265563}.Debug|x64.Build.0 = Debug|x64
+		{E381BCC4-3863-4553-B298-B2EE8B265563}.Debug|x86.ActiveCfg = Debug|Win32
+		{E381BCC4-3863-4553-B298-B2EE8B265563}.Debug|x86.Build.0 = Debug|Win32
+		{E381BCC4-3863-4553-B298-B2EE8B265563}.Release|x64.ActiveCfg = Release|x64
+		{E381BCC4-3863-4553-B298-B2EE8B265563}.Release|x64.Build.0 = Release|x64
+		{E381BCC4-3863-4553-B298-B2EE8B265563}.Release|x86.ActiveCfg = Release|Win32
+		{E381BCC4-3863-4553-B298-B2EE8B265563}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
