@@ -9,5 +9,8 @@ int main()
     for (i = 60; i > 10; i -= 10) {
         cout << i << " Selamat pagi dunia" << endl;
     }
+
+    cout << " Nilai i terakhir : " << i << endl;
+
 }
 
