@@ -11,7 +11,10 @@ int main()
 
 	while (x > 4)
 	{
+		cout << "Perulangan While" << endl;
+		x = rand() % 10;
 
+		cout << "Nilai X : " << x << endl;
 	}
 }
 
